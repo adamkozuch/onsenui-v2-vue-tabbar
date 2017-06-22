@@ -12,6 +12,7 @@
     "template-type": "vue",
     "build": {
         "transpile": {
+            "webpack_version" : 2,
             "enabled": true
         }
     },
